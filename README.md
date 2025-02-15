@@ -2,7 +2,6 @@
 My name is Ilya and I'm developer
 
 - 👀 I’m interested in web development and CS
-- 📫 How to reach me: https://t.me/pelicanchik
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelicanch1k&hide=html&layout=compact)](https://github.com/pelicanch1k)
 
