@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Ilya and I'm developer
+My name is pelicanch1k and I'm developer
 
 - 👀 I’m interested in web development and CS
 
