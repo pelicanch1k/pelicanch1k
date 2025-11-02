@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is pelicanch1k and I'm software developer
+My name is snyusik and I'm software developer
 
 I’m interested in web development and CS
 
